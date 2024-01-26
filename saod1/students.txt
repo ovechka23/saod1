@@ -1,0 +1,11 @@
+10
+Petrov Ivan Ivanovich 1510.75 5.0 4.5 5.0 3.3 4.6
+Sidorov Stepan Mikhailovich 3486.19 4.0 3.4 5.0 3.7 3.0
+Vasechkina Vasilisa Vasilevna 3478.61 5.0 3.0 2.9 4.3 5.0
+Ivanov Anatolyi Sergeevich 6483.41 5.0 3.6 4.2 4.0 4.1
+Utkin Lev Mikhailivich 9438.74 4.3 4.4 3.0 4.7 3.8
+Skvorstov Dmitryi Andreevich 6478.13 3.5 4.4 3.0 3.0 3.3
+Juk Roman Leonidovich 7634.84 5.0 3.3 3 4.6 5.0
+Dobrova Lubov Petrovna 6428.17 5.0 5.0 5.0 5.0 5.0
+Ptichkin Semen Vladimirovich 4827.54 4.8 3.7 4.3 4.1 5.0
+Sinichkina Svetlana Romanovna 6746.31 5.0 5.0 5.0 4.8 5.0
